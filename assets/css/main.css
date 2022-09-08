@@ -2945,7 +2945,7 @@ html {
 	}
 
 	#header {
-		background: #444;
+		background: #0B1D3F;
 		color: #bbb;
 		cursor: default;
 		height: 3.25em;
@@ -3177,7 +3177,7 @@ html {
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("images/overlay.png"), url("../../images/banner.jpg");
+		background-image: url("images/overlay.png"), url("../../images/banner.jpeg");
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
@@ -3317,8 +3317,8 @@ html {
 /* CTA */
 
 	#cta {
-		background: #e89980;
-		color: #f9e6df;
+		background: #425EA6;
+		color: #dfe5f9;
 		padding: 3.5em 0 4em 0;
 		text-align: center;
 	}
