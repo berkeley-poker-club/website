@@ -17,6 +17,18 @@ html {
 	text-align: left;
 }
 
+.officer-name {
+	font-weight: bold;
+	margin-bottom: 0.25em;
+	color: #425ea6;
+	text-decoration: underline;
+	transition: .2s ease;
+}
+
+.officer-name:hover {
+	color: #344b84;
+}
+
 .officer {
 	height: 7em;
 	width: 7em;
@@ -3280,11 +3292,11 @@ html {
 			-webkit-transition: opacity 0.2s ease-in-out;
 			-ms-transition: opacity 0.2s ease-in-out;
 			transition: opacity 0.2s ease-in-out;
-			opacity: 0.35;
+			opacity: .8;
 		}
 
 			#footer .icons a:hover {
-				opacity: 0.75;
+				opacity: 0.95;
 			}
 
 		#footer .copyright {
