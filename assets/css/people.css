@@ -1,0 +1,22 @@
+div > img {
+  height: 7em;
+  width: 7em;
+  border-radius: 1000px !important;
+}
+
+div h4 {
+  font-weight: bold;
+  margin-bottom: 0.25em;
+  color: #425ea6;
+  text-decoration: underline;
+  transition: 0.2s ease;
+}
+
+div h4:hover {
+  color: #344b84;
+}
+
+div h5 {
+  font-weight: bold;
+  margin-bottom: 0.25em;
+}
