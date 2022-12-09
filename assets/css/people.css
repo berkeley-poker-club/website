@@ -1,7 +1,7 @@
 div > img {
   height: 7em;
   width: 7em;
-  border-radius: 1000px !important;
+  border-radius: 1000px;
 }
 
 div h4 {
@@ -19,4 +19,9 @@ div h4:hover {
 div h5 {
   font-weight: bold;
   margin-bottom: 0.25em;
+}
+
+.destinations {
+  width: 70%;
+  min-width: 350px;
 }

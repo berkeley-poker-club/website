@@ -8,6 +8,19 @@
 */
 
 /* Reset */
+@media screen and (max-width: 840px) {
+  #navButton .toggle:before {
+    background-color: #0b1d3f !important;
+  }
+}
+
+.disclaimer {
+  padding-left: 0;
+  margin-top: 2em;
+  margin-bottom: 0;
+  list-style: none;
+}
+
 html {
   scroll-behavior: smooth;
 }
